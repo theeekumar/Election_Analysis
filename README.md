@@ -45,4 +45,9 @@ The analysis of the election shows that:
     - Raymon Anthony Doane: 3.1% (11,606 votes out of 369,711 votes) 
 - The winner of the election was:
     - Candidate Diana DeGette, who recieved 73.8% of the vote and 272,892 number of votes.
+    
+![0A92FB95-4438-4E8F-88FA-49F31F325878_4_5005_c](https://user-images.githubusercontent.com/92240407/143726624-c4768086-0285-4859-864d-a22dce014aa3.jpeg)
 ## Election-Audit Summary
+This script could be used for any election, not just an election for the Colorado Board of Elections! If you wanted to use another csv file with similar data, you would just have to change line 9 in the script from the part with "election_results.csv" to whichever csv file you wanted to generate a code for. If you wanted the terminal to print out the election results differently, you would change the words under line 84 that are in between the "\n". You could even add more lines to print!
+![0125B22B-10EE-4E7F-B103-AF399ED4A12B](https://user-images.githubusercontent.com/92240407/143726668-d2262b54-7c79-42f3-8592-bec1ac80a13e.jpeg)
+![23DA44F4-1931-4E99-B0C4-17D84AADE6DC](https://user-images.githubusercontent.com/92240407/143726673-a03a983b-2600-4d36-bc09-fa9732906b5b.jpeg)
